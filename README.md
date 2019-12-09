@@ -1,8 +1,6 @@
-#Fork of Laoag City Government for its own use
-
-#forked by @kechie
-
-#Government Web Template (GWT) for WordPress
+# Fork of Laoag City Government for its own use
+# forked by @kechie
+# Government Web Template (GWT) for WordPress
 
 Use this as a a guide for creating your banner slider images:
 - Image should be inserted as a featured image, full size
